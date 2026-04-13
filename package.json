@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "swiper": "^8.4.4",
+    "swiper": "^12.1.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
